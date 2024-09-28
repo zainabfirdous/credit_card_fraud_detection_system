@@ -1,0 +1,35 @@
+.para{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+   font-style: italic;
+}
+
+.f{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+
+footer{
+  
+  padding: 20px 0;
+}
+ 
+.footer-container{
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+
+.h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
